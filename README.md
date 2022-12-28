@@ -1,9 +1,21 @@
 # Absensi Daring TINR
 
-```
-Fitur:
+
+#### Include:
 - Copy Data
 - Share Ke Whatsapp
+
+
+#### Instalasi:
+```
+$ git clone https://github.com/galihputroaji/absen-tinr && cd absen-tinr
+$ npm install
+$ npm run start
 ```
 
-### Galih Putro Aji
+##### Bahan:
+- ReactJs
+- Tailwind CSS
+<br>
+<br>
+##### By Galih Putro Aji
