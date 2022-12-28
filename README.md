@@ -1,7 +1,9 @@
 # Absensi Daring TINR
 
-### Fitur:
+```
+Fitur:
 - Copy Data
 - Share Ke Whatsapp
+```
 
 ### Galih Putro Aji
