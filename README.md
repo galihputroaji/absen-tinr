@@ -16,6 +16,6 @@ $ npm run start
 ##### Bahan:
 - ReactJs
 - Tailwind CSS
-<br>
-<br>
+
+   
 ##### By Galih Putro Aji
